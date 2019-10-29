@@ -1,0 +1,6 @@
+{
+    "server_address":"127.0.0.1",
+    "port":8000,
+    "password":"我是传输的密码啦",
+    "channel":"default"
+}
